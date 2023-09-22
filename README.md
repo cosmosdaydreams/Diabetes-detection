@@ -4,6 +4,7 @@ This code attempts to optimize the weights of an ANN model using GA with the goa
 
 Here's an explanation of the main steps present in the code:
 
+
 **1. Import Libraries:**
    The code starts by importing various libraries that will be used in the process, including numpy, pandas, tensorflow, sklearn, keras, matplotlib, seaborn, and others.
 
