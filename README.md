@@ -33,5 +33,4 @@ Here's an explanation of the main steps present in the code:
     The model training process is performed using GA. Each generation, different models are tested by calculating their accuracy on the training data.
 
 **10. Analysis of Results:**
-    The best accuracy result from the models produced by GA is evaluated on both the training data and the testing data. Additionally, a graph showing the change in accuracy during iterations is displayed.
-    
+    The best accuracy result from the models produced by GA is evaluated on both the training data and the testing data.
